@@ -48,7 +48,7 @@ My blend of creativity and technical expertise drives me to design innovative so
 
 ### Tools  
 `Git` `GitHub` `VS Code`  
-
+<!--
 ---
 
 ## 🌟 Featured Projects  
@@ -61,15 +61,6 @@ My blend of creativity and technical expertise drives me to design innovative so
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupriya2508&layout=compact&theme=radical)
 
 ---
-
+-->
 💡 *I’m always eager to learn and collaborate with like-minded individuals. Let's create something amazing together!*  
 
-<!--
-## 🌟 Featured Projects  
-- **[PoetHive](#)**: A collaborative hub for writers and poets. (MERN Stack)  
-- **[Other Projects](#)**: Coming soon!  
-
----
-
-![Anupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupriya2508&show_icons=true&theme=radical)
--->
