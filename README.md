@@ -63,5 +63,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Anupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupriya-jayaraj&show_icons=true&theme=radical)  
-
+![Anupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupriya2508&show_icons=true&theme=radical)
