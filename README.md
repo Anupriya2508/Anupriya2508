@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 `Jenkins` `Ansible` `Docker` `Kubernetes` `AWS`  
 
 ### Databases  
-`MongoDB` `MySQL` `PostgreSQL`  
+`MongoDB` `MySQL` 
 
 ---
-
+<!--
 ## 🌟 Featured Projects  
 - **[PoetHive](#)**: A collaborative hub for writers and poets. (MERN Stack)  
 - **[Other Projects](#)**: Coming soon!  
@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 ---
 
 ![Anupriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupriya2508&show_icons=true&theme=radical)
+-->
