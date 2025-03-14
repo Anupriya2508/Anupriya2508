@@ -25,7 +25,7 @@ My blend of creativity and technical expertise drives me to design innovative so
 
 ## 📫 How to reach me  
 - **LinkedIn**: [Anupriya Jayaraj](https://www.linkedin.com/in/anupriya-jayaraj)  
-- **Email**: [anupriya.jayaraj@example.com](mailto:anupriya.jayaraj@example.com)  
+- **Email**: [anu.priya.jayaraj08@gmail.com](mailto:anu.priya.jayaraj08@gmail.com)  
 
 ---
 
